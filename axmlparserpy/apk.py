@@ -18,8 +18,8 @@
 
 import bytecode
 
-from axmlprinter import AXMLPrinter
-from bytecode import SV
+from .axmlprinter import AXMLPrinter
+from .bytecode import SV
 
 import zipfile
 try:
